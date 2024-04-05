@@ -46,22 +46,6 @@ In addition, sub-group analysis of smoker status revealed circulatory system dis
 Upon examining the traction of different distribution channels across all Lumarian regions, detailed in the left graph below, Plus Advisory’s marketing recommendation will primarily focus on agents and online platforms given their consistent popularity. Adopting a product-wise lens, as illustrated in the right graph below, we would advise the concentration of advertising budget and other resources on agents for SPWL given their predominance and even investment across all channels for T20.
 
 > Distribution Channels
+<img width="828" alt="Screen Shot 2024-04-05 at 11 01 57 pm" src="https://github.com/Actuarial-Control-Cycle-T1-2024/group-page-showcase-cc2024/assets/166011691/b8a3e5cc-daa2-4ba3-8c5a-fcd57373ddf1">
 
 
-
-
->Now it's time to build your own website to showcase your work.  
->To create a website on GitHub Pages to showcase your work is very easy.
-
-This is written in markdown language. 
->
-* Click [link](https://classroom.github.com/a/biNKOeX_) to accept your group assignment.
-
-#### Follow the [guide doc](doc1.pdf) to submit your work. 
-
-When you finish the task, please paste your link to the Excel [sheet](https://unsw-my.sharepoint.com/:x:/g/personal/z5096423_ad_unsw_edu_au/ETIxmQ6pESRHoHPt-PUleR4BuN0_ghByf7TsfSfgDaBhVg?rtime=GAd2OFNM3Eg) for Peer Feedback
----
->Be creative! Feel free to link to embed your [data](2024-srcsc-superlife-inforce-dataset-part1.csv), [code](sample-data-clean.ipynb), [image](unsw.png) here
-
-More information on GitHub Pages can be found [here](https://pages.github.com/)
-![](Actuarial.gif)
