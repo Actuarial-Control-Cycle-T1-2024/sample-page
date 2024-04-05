@@ -1,10 +1,11 @@
-# Actuarial Theory and Practice B @ UNSW x
+## Exploratory Data Analysis
 
-_"Tell me and I forget. Teach me and I remember. Involve me and I learn" - Benjamin Franklin_
+#### Causes of Deaths
+Through a holistic review of SuperLife’s policyholder data, we have identified the mortality trends and contributive variables that must be considered in the health program design. Our analysis, on both a population and region level, revealed the leading causes of death to be neoplasms (33.5%), diseases of the circulatory system (30%) and external causes of morbidity (8.8%) as detailed in the 2 graphs below, a trend largely consistent across all Lumarian regions and product lines (SPWL and T20). Consequently, our program has been specifically tailored to offer incentives that address these particular health concerns with no product-level or geographical differentiation. 
 
----
 
-### Congrats on completing the [2024 SOA Research Challenge](https://www.soa.org/research/opportunities/2024-student-research-case-study-challenge/)!
+
+
 
 >Now it's time to build your own website to showcase your work.  
 >To create a website on GitHub Pages to showcase your work is very easy.
