@@ -1,4 +1,4 @@
-# Actuarial Theory and Practice B @ UNSW
+# Actuarial Theory and Practice B @ UNSW x
 
 _"Tell me and I forget. Teach me and I remember. Involve me and I learn" - Benjamin Franklin_
 
