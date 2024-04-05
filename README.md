@@ -12,7 +12,13 @@ Through a holistic review of SuperLife’s policyholder data, we have identified
 #### <ins>Gender Distribution</ins>
 Our exploration of the genders of SuperLife’s policyholders has led us to our findings that females join the policy slightly earlier than males, but dead policyholders generally got policies much later. Analysis of the gender of dead policyholders by regions, as shown in the graph below, illustrates all regions having significantly higher numbers of male policyholder deaths than females, especially for regions 1-3. Out of the total dead policyholder count, males accounted for more than twice the number of female policyholders.
 
+> Gender Distribution of Dead Policyholders per Region
+<img width="460" alt="Screen Shot 2024-04-05 at 10 53 17 pm" src="https://github.com/Actuarial-Control-Cycle-T1-2024/group-page-showcase-cc2024/assets/166011691/ac2a709c-f6da-4487-97de-d69b41cb9f7c">
+
 Analysis of the gender of policyholders based on product revealed a similar distribution of male and female policyholder deaths for both SPWL and T20 products but in proportion to the number of policyholders, more are dying under SPWL products. Our findings are illustrated in the graph below:
+
+> Gender Distribution of Dead Policyholders by Policy Type
+
 
 #### <ins>Underwriting Classes</ins>
 Additionally, by examining the distribution of underwriting classes among the Lumarian population, as indicated in the graph below, we have discovered that policyholders predominantly fall into the low-risk category (633,198) within the overall claims dataset, yet majority of those who died were categorised as moderate risk (16,187). The subsequent table outlines our findings.
