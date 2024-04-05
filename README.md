@@ -6,6 +6,8 @@ Through a holistic review of SuperLife’s policyholder data, we have identified
 > Prevalence of Difference Causes of Death
 <img width="1261" alt="Screen Shot 2024-04-05 at 10 38 20 pm" src="https://github.com/Actuarial-Control-Cycle-T1-2024/group-page-showcase-cc2024/assets/166011691/648e3774-9e05-4cd0-9b2e-ead6186dd7ee">
 
+> Most Common Causes of Death for each Region
+<img width="1299" alt="Screen Shot 2024-04-05 at 10 49 53 pm" src="https://github.com/Actuarial-Control-Cycle-T1-2024/group-page-showcase-cc2024/assets/166011691/146b39bf-a90f-42a6-8bf7-2088debceaff">
 
 
 
