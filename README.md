@@ -37,12 +37,15 @@ A risk profile assessment on smokers’ underwriting classes, as seen in the gra
 <img width="921" alt="Screen Shot 2024-04-05 at 10 59 29 pm" src="https://github.com/Actuarial-Control-Cycle-T1-2024/group-page-showcase-cc2024/assets/166011691/3ec6abfb-cf86-4ac9-b267-0addee483d2d">
 
 In addition, sub-group analysis of smoker status revealed circulatory system diseases as the foremost health issue among smokers, contrasting with neoplasms in non-smokers, as illustrated in the graph below:
+
 > Cause of Deaths by Smoking Status
+<img width="895" alt="Screen Shot 2024-04-05 at 11 00 25 pm" src="https://github.com/Actuarial-Control-Cycle-T1-2024/group-page-showcase-cc2024/assets/166011691/f4b71b35-9b20-491a-84fa-5ee24d0238fb">
 
 
 #### <ins>Marketing Distribution Channels</ins>
 Upon examining the traction of different distribution channels across all Lumarian regions, detailed in the left graph below, Plus Advisory’s marketing recommendation will primarily focus on agents and online platforms given their consistent popularity. Adopting a product-wise lens, as illustrated in the right graph below, we would advise the concentration of advertising budget and other resources on agents for SPWL given their predominance and even investment across all channels for T20.
 
+> Distribution Channels
 
 
 
