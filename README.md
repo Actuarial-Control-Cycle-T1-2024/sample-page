@@ -26,6 +26,7 @@ Analysis of the gender of policyholders based on product revealed a similar dist
 Additionally, by examining the distribution of underwriting classes among the Lumarian population, as indicated in the graph below, we have discovered that policyholders predominantly fall into the low-risk category (633,198) within the overall claims dataset, yet majority of those who died were categorised as moderate risk (16,187). 
 
 > Underwriting Class Distribution of Lumarian Population
+<img width="664" alt="Screen Shot 2024-04-05 at 10 56 19 pm" src="https://github.com/Actuarial-Control-Cycle-T1-2024/group-page-showcase-cc2024/assets/166011691/b1a10083-e184-439a-9853-d8bab6c6f8ec">
 
 The subsequent table outlines our findings:
 
