@@ -29,12 +29,15 @@ Additionally, by examining the distribution of underwriting classes among the Lu
 <img width="664" alt="Screen Shot 2024-04-05 at 10 56 19 pm" src="https://github.com/Actuarial-Control-Cycle-T1-2024/group-page-showcase-cc2024/assets/166011691/b1a10083-e184-439a-9853-d8bab6c6f8ec">
 
 The subsequent table outlines our findings:
-
-
+<img width="778" alt="Screen Shot 2024-04-05 at 10 57 54 pm" src="https://github.com/Actuarial-Control-Cycle-T1-2024/group-page-showcase-cc2024/assets/166011691/68c8cdce-99b5-409f-a628-5784ff150f63">
 
 A risk profile assessment on smokers’ underwriting classes, as seen in the graph below, highlighted a pronounced discrepancy: smokers only fall into moderate or high-risk underwriting classes indicating a skewed risk distribution, whereas non-smokers were distributed more evenly between very low to high-risk underwriting classes. Hence, smoking has been considered as a significant risk factor.
 
+> Underwriting Class Distribution by Smoking Status
+
 In addition, sub-group analysis of smoker status revealed circulatory system diseases as the foremost health issue among smokers, contrasting with neoplasms in non-smokers, as illustrated in the graph below:
+> Cause of Deaths by Smoking Status
+
 
 #### <ins>Marketing Distribution Channels</ins>
 Upon examining the traction of different distribution channels across all Lumarian regions, detailed in the left graph below, Plus Advisory’s marketing recommendation will primarily focus on agents and online platforms given their consistent popularity. Adopting a product-wise lens, as illustrated in the right graph below, we would advise the concentration of advertising budget and other resources on agents for SPWL given their predominance and even investment across all channels for T20.
