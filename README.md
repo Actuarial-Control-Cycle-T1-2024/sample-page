@@ -13,7 +13,7 @@ _"Tell me and I forget. Teach me and I remember. Involve me and I learn" - Benja
 
 
 
-## <span style="color:green">Website Guide</span>
+## <span style="color:#c5f015">Website Guide</span>
 ---
 
 - **Report**: The `report.pdf` file contains the main concept proposed by our group, along with all associated risks and analyses.
