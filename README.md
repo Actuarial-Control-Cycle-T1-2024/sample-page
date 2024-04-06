@@ -16,9 +16,12 @@ _"Tell me and I forget. Teach me and I remember. Involve me and I learn" - Benja
 #### Website Guide 
 ---
 >The report can be found in report.pdf file which contains the main concept that we proposed and all the associated risks and analysis.
+>
 >The code we used can be Life_insurance.py which included the main technicals that was used.
->The contains how the mortality decrement was calculated based on our assumptions
->All other .csv and .zip files are used as input dataset
+>
+>The contains how the mortality decrement was calculated based on our assumptions.
+>
+>All other .csv and .zip files are used as input dataset.
 
 Please send us email if there is any confusion in understanding the report content or running the codes.
 ![](Actuarial.gif)
