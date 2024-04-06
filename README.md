@@ -1,18 +1,17 @@
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/biNKOeX_)
-# Actuarial Theory and Practice A @ UNSW
+# Actuarial Theory and Practice A @ UNSW form Group 3
 
 _"Tell me and I forget. Teach me and I remember. Involve me and I learn" - Benjamin Franklin_
 
 ---
 
-### Congrats on completing the [2024 SOA Research Challenge](https://www.soa.org/research/opportunities/2024-student-research-case-study-challenge/)!
+### Group member: Joshua Ashokan, Yao Li, Zhiyue Pan, Boyuan Bai, Yawei Wang
 
->Now it's time to build your own website to showcase your work.  
->To create a website on GitHub Pages to showcase your work is very easy.
+>Here is the website of our work for SOA 2024 assignment
 
-This is written in markdown language. 
 >
-* Click [link](https://classroom.github.com/a/biNKOeX_) to accept your group assignment.
+
+
 
 #### Follow the [guide doc](doc1.pdf) to submit your work. 
 
