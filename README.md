@@ -5,7 +5,7 @@ _"Tell me and I forget. Teach me and I remember. Involve me and I learn" - Benja
 
 ---
 
-## <font color="green">Group 3</font>
+## <font color=#c5f015>Group 3</font>
 
 >Group member: Joshua Ashokan, Yao Li, Zhiyue Pan, Boyuan Bai, Yawei Wang
 
