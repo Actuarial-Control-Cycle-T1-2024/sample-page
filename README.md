@@ -15,13 +15,14 @@ _"Tell me and I forget. Teach me and I remember. Involve me and I learn" - Benja
 
 #### Website Guide 
 ---
->The report can be found in report.pdf file which contains the main concept that we proposed and all the associated risks and analysis.
->
->The code we used can be Life_insurance.py which included the main technicals that was used.
->
->The contains how the mortality decrement was calculated based on our assumptions.
->
->All other .csv and .zip files are used as input dataset.
+
+- **Report**: The `report.pdf` file contains the main concept proposed by our group, along with all associated risks and analyses.
+
+- **Code**: The `Life_insurance.py` file includes the main technical aspects utilized in our project.
+
+- **Mortality Decrement Calculation**: Refer to the `mortality_decrement_calculation.ipynb` notebook for details on how the mortality decrement was calculated based on our assumptions.
+
+- **Datasets**: All other `.csv` and `.zip` files are used as input datasets for our analysis.
 
 Please send us email if there is any confusion in understanding the report content or running the codes.
 ![](Actuarial.gif)
