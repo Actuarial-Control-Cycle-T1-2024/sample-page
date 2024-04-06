@@ -5,7 +5,7 @@ _"Tell me and I forget. Teach me and I remember. Involve me and I learn" - Benja
 
 ---
 
-##<span style="color:green"> Group 3
+## <span style="color:green">Group 3</span>
 
 >Group member: Joshua Ashokan, Yao Li, Zhiyue Pan, Boyuan Bai, Yawei Wang
 
@@ -13,7 +13,7 @@ _"Tell me and I forget. Teach me and I remember. Involve me and I learn" - Benja
 
 
 
-##<span style="color:green"> Website Guide 
+## <span style="color:green">Website Guide</span>
 ---
 
 - **Report**: The `report.pdf` file contains the main concept proposed by our group, along with all associated risks and analyses.
