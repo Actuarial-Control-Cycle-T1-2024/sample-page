@@ -17,7 +17,7 @@ _"Tell me and I forget. Teach me and I remember. Involve me and I learn" - Benja
 
 - **Report**: The `report.pdf` file contains the main concept proposed by our group, along with all associated risks and analyses.
 
-- **Code**: The `Life_insurance.py` file includes the main technical aspects utilized in our project.
+- **Code**: The `life_insurance.py` file includes the main technical aspects utilized in our project.
 
 - **Mortality Decrement Calculation**: Refer to the `mortality_decrement_calculation.ipynb` notebook for details on how the mortality decrement was calculated based on our assumptions.
 
