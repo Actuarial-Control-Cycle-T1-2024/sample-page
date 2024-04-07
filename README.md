@@ -1,23 +1,25 @@
-# Actuarial Theory and Practice A @ UNSW
+ACTL4001 SOA Student Research Case Study Challenge
 
-_"Tell me and I forget. Teach me and I remember. Involve me and I learn" - Benjamin Franklin_
+Members: Arnav Bharadwaj, Danushan Dayaparan, Alex Lu, Catherine Lye and Peter Zhou.
 
----
+Section Summary
 
-### Congrats on completing the [2024 SOA Research Challenge](https://www.soa.org/research/opportunities/2024-student-research-case-study-challenge/)!
+Setup
+> Foundation code for future EDA 
 
->Now it's time to build your own website to showcase your work.  
->To create a website on GitHub Pages to showcase your work is very easy.
+Death_data_EDA 
+> Investigation into what variables are most significant for policyholders that have died.
 
-This is written in markdown language. 
->
-* Click [link](https://classroom.github.com/a/biNKOeX_) to accept your group assignment.
+Full_data_EDA 
+> Investigation into what variables are most significant for entire policyholder pool. 
 
-#### Follow the [guide doc](doc1.pdf) to submit your work. 
+Lapse_EDA 
+> Investigation into what variables are most significant for policyholders that have lapsed.
 
-When you finish the task, please paste your link to the Excel [sheet](https://unsw-my.sharepoint.com/:x:/g/personal/z5096423_ad_unsw_edu_au/ETIxmQ6pESRHoHPt-PUleR4BuN0_ghByf7TsfSfgDaBhVg?rtime=GAd2OFNM3Eg) for Peer Feedback
----
->Be creative! Feel free to link to embed your [data](2024-srcsc-superlife-inforce-dataset-part1.csv), [code](sample-data-clean.ipynb), [image](unsw.png) here
+Mortality_Savings_Projections
+> Forecasts the level of mortality savings (and profit) Superlife will receive from implementing the intervention strategies.
 
-More information on GitHub Pages can be found [here](https://pages.github.com/)
+Pricing Model 
+> Model used to determine the premiums for an whole life and term insurance with chosen intervention strategies. 
+
 ![](Actuarial.gif)
