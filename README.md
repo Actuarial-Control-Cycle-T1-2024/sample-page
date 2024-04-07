@@ -4,9 +4,12 @@ Members: Arnav Bharadwaj, Danushan Dayaparan, Alex Lu, Catherine Lye and Peter Z
 
 Section:
 
-Death_data_EDA - 
+Death_data_EDA - Investigation into what variables are most significant for policyholders that have died.
+
 Full_data_EDA - 
+
 Lapse_EDA - 
-Pricing Model - 
+
+Pricing Model - Model used to determine the premiums for an whole life and term insurance with chosen intervention strategies. 
 
 ![](Actuarial.gif)
