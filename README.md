@@ -14,11 +14,15 @@ _Free fitness tracker_
 _Tiered Reward System_
 > Policyholders are able to earn Super points as they continually track fitness and achieve specific fitness and health goals. Fitness goals can include a 10,000 daily step count, healthy eating, weight loss, limit on alcohol and tobacco use and health goals include attending regular health screenings. As a person accumulates Super points, they are able to advance in tier status and receive premium reductions for term insureds or cash backs for whole life insureds. Inactivity for more than 4 weeks may result in loss of points, incentivising consistent tracking.
 
+![](program_structure)
+
 _Referral Incentive_
 > Participants can earn additional Super points by referring others to join the program. If the referred individuals stay enrolled for at least 12 months, the referrer receives extra points. This encourages current participants to promote Superlife and the program to others, increasing life insurance sales.
 
 _Leaderboard Recognition_
 > A leaderboard showcasing notable weekly point earners can serve as a form of recognition and motivation. High performing individuals can be highlighted, encouraging friendly competition and inspiring others to increase participation.
+
+(**Please refer to our project report for more information**)
 
 ### File Summary
 
