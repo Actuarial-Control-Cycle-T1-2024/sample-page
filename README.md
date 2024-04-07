@@ -15,7 +15,7 @@ _"Tell me and I forget. Teach me and I remember. Involve me and I learn" - Benja
 ## <span style="color:#c5f015">Website Guide</span>
 ---
 
-- **Report**: The `report.pdf` file contains the main concept proposed by our group, along with all associated risks and analyses.
+- **Report**: The `ACTL5100 Group 3 Case Report.pdf` file contains the main concept proposed by our group, along with all associated risks and analyses.
 
 - **Code**: The `life_insurance.py` file includes the main technical aspects utilized in our project.
 
