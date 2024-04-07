@@ -1,0 +1,132 @@
+# actl4001 assignment
+
+# by Arnav Bharadwaj (z5311679)
+
+library(readxl)
+library(dplyr)
+
+getwd()
+
+#### DATA IMPORT ####
+mortality_table <- read_excel("combined_data.xlsx", sheet = "mortality_table")
+superlife_data <- read_excel("combined_data.xlsx", sheet = "superlife_data")
+economic_data <- read_excel("combined_data.xlsx", sheet = "economic_data")
+intervention_data <- read_excel("combined_data.xlsx", sheet = "intervention")
+
+#### EDA ####
+# Plot of mortality graph
+plot(mortality_table$`Age`,mortality_table$`Mortality Rate`, pch=19,cex=0.3,
+     xlab="Mortality Rate", 
+     ylab="Age",main="Mortality Rate vs Age")
+
+# Check how many NA's in each variable
+na_count <- t(superlife_data %>% summarise(across(everything(), ~ sum(is.na(.))))) # some NA's not showing!!!
+superlife_data <- superlife_data %>% mutate(across(everything(), ~ replace((.), (.)=="NA", NA) )) # Replace character NA's with NA
+na_count<-t(superlife_data %>% summarise(across(everything(), ~ sum(is.na(.))))) # All NA's counted
+View(na_count) # NAs only in Death Indicator, Year of Death, Lapse Indicator, Year of Lapse, Cause of Death
+
+# Replace NA's with 0's for indicator variables
+superlife_data$Death.indicator[is.na(superlife_data$Death.indicator)] <- 0
+superlife_data$Lapse.Indicator[is.na(superlife_data$Lapse.Indicator)] <- 0
+
+# Investigate distribution of each variable
+superlife_colnames <- colnames(superlife_data[,-1]) # investigating all columns but policy number
+
+table_function<-function(colname){
+  x<-which(superlife_colnames==colname)
+  return(as.data.frame(table(superlife_data[x+1])))
+} # returns a summary table
+
+naming_function <- function(col){
+  x<-table_function(colname=col)
+  table_name <- paste0( "distribution_",col)
+  assign(table_name,x,env = .GlobalEnv )
+} # assigns table name to summary table
+
+lapply(superlife_colnames,naming_function) # do for all variables
+
+## Distribution findings
+# 104023 lapsed policies, 6866 "Y" for lapse indicator ?
+# 874139 alive & lapsed policies
+# 40376 deaths 
+
+# Check for any duplicated policy numbers
+sum(duplicated(superlife_data$Policy.number)) # none 
+
+# Cause of death key
+cause_of_death <- c("Certain infectious and parasitic diseases", 
+                    "Neoplasms", 
+                    "Diseases of blood, blood-forming organs, disorders involving immune mechanism",
+                    "Endocrine, nutritional and metabolic diseases",
+                    "Mental and behavioural disorders",
+                    "Diseases of the nervous system",
+                    "Diseases of the circulatory system", 
+                    "Diseases of the respiratory system",
+                    "Diseases of the digestive system",
+                    "Diseases of the skin and subcutaneous tissue",
+                    "Diseases of the musculoskeletal system and connective tissue",
+                    "Diseases of the genitourinary system",
+                    "NA",
+                    "Pregnancy, childbirth and the puerperium",
+                    "Congenital malformations, deformations and chromosomal abnormalities",
+                    "Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+                    "External causes of morbidity and mortality"
+) 
+
+cause_of_death_key <- cbind(as.vector(distribution_Cause.of.Death$Cause.of.Death), cause_of_death[cause_of_death != "NA"]) # Key whilst removing the NA from cause_of_death
+colnames(cause_of_death_key) <- c("Cause.of.Death", "Desc") # Renaming columns in key dataset
+distribution_Cause.of.Death <- merge(distribution_Cause.of.Death, cause_of_death_key, by = "Cause.of.Death") # Merging key dataset and Death Cause dataset to include descriptions
+
+### UNIVARIATE ANALYSIS
+
+## AGE DISTRIBUTION
+barplot(distribution_Issue.age$Freq, as.integer(as.character(distribution_Issue.age$Issue.age)), 
+        names.arg = distribution_Issue.age$Issue.age, 
+        ylim = c(0, max(distribution_Issue.age$Freq + 4000)),
+        main = "Age Distribution of Policyholders") # Histogram depicting distribution of age 
+# Interesting distribution - seems like there's a certain amount of frequency within age buckets of policyholders - ~32.5k from ages 35-55 per age
+# around 20k from ages 26-34 per age
+# around 11k from 56-65 per age
+
+## DEATH RATES
+barplot(distribution_Cause.of.Death$Freq, names.arg = distribution_Cause.of.Death$Cause.of.Death) # Histogram depicting distribution of death types
+
+# Prop Table
+cause_of_death_props <- prop.table(as.matrix(distribution_Cause.of.Death$Freq)) # Calculating proportion of each COD
+cause_of_death_proptable <- cbind(as.character(distribution_Cause.of.Death$Cause.of.Death), 
+                                  cause_of_death_props, 
+                                  as.character(distribution_Cause.of.Death$Desc)) # Creating prop table by binding proportions with description and COD
+colnames(cause_of_death_proptable) <- c(colnames(distribution_Cause.of.Death)[1], "Prop", colnames(distribution_Cause.of.Death[3])) # Changing colnames of dataset
+
+# largest proportion of deaths from neoplasms (33.47%) and diseases of circulatory system (30.07%)
+
+## URBAN/RURAL
+distribution_Urban.vs.Rural
+# about 2/3rd of policy holders are Urban, 1/3rd are rural
+
+## ISSUE YEAR
+distribution_Issue.year
+
+# Prop Table
+issue_year_props <- prop.table(as.matrix(distribution_Issue.year$Freq)) 
+View(issue_year_props)
+issue_year_proptable <- cbind(as.numeric(as.character(distribution_Issue.year$Issue.year)), issue_year_props)
+colnames(issue_year_proptable) <- c(colnames(distribution_Issue.year)[1], "Prop")
+
+# Creating time series graph
+# need to format the proptable so it is a matrix 
+issue_year_proptable <- as.data.frame(issue_year_proptable)
+plot(issue_year_proptable$Issue.year, 
+     issue_year_proptable$Prop, 
+     type = "line", 
+     xlab = "Proportion of Data", 
+     ylab = "Issue Year",
+     main = "Evolution of Issue Year Data Proportion in Dataset")
+
+# can see that we have higher proportion of data from more recent years. Gradually increasing
+
+## 
+
+### MULTIVARIATE ANALYSIS ###
+# Proportion of regional deaths vs. proportion of urban deaths
+# Regional Deaths/Total Regional Individuals, Urban Deaths/Total Urban Deaths
