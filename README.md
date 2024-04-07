@@ -2,7 +2,7 @@ ACTL4001 SOA Student Research Case Study Challenge
 
 Members: Arnav Bharadwaj, Danushan Dayaparan, Alex Lu, Catherine Lye and Peter Zhou.
 
-Section:
+Section Summary
 
 Death_data_EDA - Investigation into what variables are most significant for policyholders that have died.
 
