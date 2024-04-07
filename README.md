@@ -4,9 +4,9 @@ Members: Arnav Bharadwaj, Danushan Dayaparan, Alex Lu, Catherine Lye and Peter Z
 
 Section:
 
-Death_data_EDA
-Full_data_EDA
-Lapse_EDA
-Pricing Model
+Death_data_EDA - 
+Full_data_EDA - 
+Lapse_EDA - 
+Pricing Model - 
 
 ![](Actuarial.gif)
