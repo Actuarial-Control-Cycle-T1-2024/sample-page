@@ -4,6 +4,9 @@ Members: Arnav Bharadwaj, Danushan Dayaparan, Alex Lu, Catherine Lye and Peter Z
 
 Section Summary
 
+Setup
+> Foundation code for future EDA 
+
 Death_data_EDA 
 > Investigation into what variables are most significant for policyholders that have died.
 
