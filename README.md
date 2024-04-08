@@ -6,9 +6,9 @@ _"Tell me and I forget. Teach me and I remember. Involve me and I learn" - Benja
 
 ## <font color=#c5f015>Group 3</font>
 
->Group member: Joshua Ashokan, Yao Li, Zhiyue Pan, Boyuan Bai, Yawei Wang
+>Group Members: Joshua Ashokan, Yao Li, Zhiyue Pan, Boyuan Bai, Yawei Wang
 
->Here is the website of our work for SOA 2024 assignment
+>Please find below our GitHub Showcase for the 2024 SOA Challenge
 
 
 
@@ -25,13 +25,12 @@ _"Tell me and I forget. Teach me and I remember. Involve me and I learn" - Benja
 
 ## Executive Summary
 
-> ActuarialLife Innovations has proposed a health incentive program to be bundled with SuperLife’s insurance products, aiming to reduce policyholder mortality, encourage healthy behaviours, and enhance economic value. Implementing the program 20 years ago would have resulted in mortality savings of Ć0.58b. Projections indicate potential mortality savings of Ć125.43m and profits of Ć75.95m over 20 years. Risks, ethics, and data limitations were considered throughout program development and modelling, and mitigation strategies were recommended.
+ActuarialLife Innovations has proposed a health incentive program to be bundled with SuperLife’s insurance products, aiming to reduce policyholder mortality, encourage healthy behaviours, and enhance economic value. Implementing the program 20 years ago would have resulted in mortality savings of Ć0.58b. Projections indicate potential mortality savings of Ć125.43m and profits of Ć75.95m over 20 years. Risks, ethics, and data limitations were considered throughout program development and modelling, and mitigation strategies were recommended.
 
 ## Overview
+The main objectives for the program are to incentivise healthy behaviours, decreased expected mortality, increase life insurance sales, improve product marketability and competitiveness, and to add economic value to SuperLife.
 
-> The main objectives for the program are to incentivise healthy behaviours, decreased expected mortality, increase life insurance sales, improve product marketability and competitiveness, and to add economic value to SuperLife.
->
-> Metrics used to assess program performance are policyholder participation, policies sold, lapse rate monitoring, mortality rate monitoring, market share, customer satisfaction, profitability, and claim frequency and severity.
+Metrics used to assess program performance are policyholder participation, policies sold, lapse rate monitoring, mortality rate monitoring, market share, customer satisfaction, profitability, and claim frequency and severity.
 
 ## Program Design
 
@@ -55,7 +54,7 @@ The selection of incentives was guided by the main causes of death among existin
 
 The mortality savings from the proposed program were assessed over a 20-year period. This involved comparing the total cost of claims with and without the program over a 20-year timeframe.)
 
-|                        | Total Claim Costs (Č) Without Program   |  Total Claim Costs (Č) With Program      |     Mortality Savings (Č)             |   Mortality Savings (%)  |Number of Policies |
+|                        | Total Claim Costs Without Program (Č)   |  Total Claim Costs With Program (Č)     |     Mortality Savings (Č)             |   Mortality Savings (%)  |Number of Policies |
 |------------------------|-------------------|-------------------|-------------------|-------------------|-------------------|
 | 20-year Term           | 4.21b             | 3.88b             | 0.33b             | 7.7%              | 311,595           |
 | Whole Life             | 27.38bm           | 27.13b            | 0.25b             | 0.9%              | 117,566           |
@@ -64,13 +63,13 @@ The mortality savings from the proposed program were assessed over a 20-year per
 The program's performance was projected for both 5-year and 20-year periods to evaluate its financial performance. This was done to ensure that the benefits exceed the costs and that the program contributed more to SuperLife's economic value than without it.
 
 
-| 5-year Timeframe| Total Claim Costs (Č) Without Program| Total Claim Costs (Č) With Program |   Mortality Savings (Č)  | Expenses | Profit |
+| 5-year Timeframe| Total Claim Costs Without Program (Č)| Total Claim Costs With Program (Č)|   Mortality Savings (Č)  | Expenses | Profit |
 |-----------------|------------------------|----------------------|------------------------|------|------|
 | 20-year Term    | 4.86m                  | 4.58m                | 0.28m                  | 6.59m| (6.31m) |
 | Whole Life      | 19.89m                 | 18.55m               | 1.34m                  | 6.71m| (5.37m) |
 | Total           | 24.75m                 | 23.13m               | 1.62m                  | 13.30m| (11.68m) |
 
-|         20-year Timeframe          |Total Claim Costs (Č) Without Program  | Total Claim Costs (Č) With Program         | Mortality Savings (Č) | Expenses | Profit |
+|         20-year Timeframe          |Total Claim Costs Without Program (Č)| Total Claim Costs With Program (Č)        | Mortality Savings (Č) | Expenses | Profit |
 |-------------------|------------------------|-------------------------|------------------------|----------|--------|
 | 20-year Term      | 1,069.81m              | 994.92m                 | 74.89m                 | 24.28m   | 50.61m |
 | Whole Life        | 664.86m                | 614.33m                 | 50.54m                 | 25.20m   | 25.34m |
