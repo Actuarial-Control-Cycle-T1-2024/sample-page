@@ -43,13 +43,13 @@ _"Tell me and I forget. Teach me and I remember. Involve me and I learn" - Benja
 
 The selection of incentives was guided by the main causes of death among existing SuperLife policyholders as well as the complimentary nature of both interventions.
 
-Evaluation timeframes:
+> Evaluation timeframes:
+>
+>  - Short-term evaluation has been selected at the 5-year mark, as it allows mortality trends to become evident, and a better understanding of life insurance products. Additionally, more frequent monitoring is recommended to allow for immediate program adjustments.
+>
+>  - Long-term valuation has been selected at the 20-year mark, primarily due to the long-term nature of life insurance products. This time frame will also allow for the assessment of product performance in various economic cycles or major events.
 
-- Short-term evaluation has been selected at the 5-year mark, as it allows mortality trends to become evident, and a better understanding of life insurance products. Additionally, more frequent monitoring is recommended to allow for immediate program adjustments.
-
-- Long-term valuation has been selected at the 20-year mark, primarily due to the long-term nature of life insurance products. This time frame will also allow for the assessment of product performance in various economic cycles or major events.
-
-Pricing/Costs
+## Pricing/Costs
 
 Methodology
 
@@ -57,7 +57,7 @@ Mortality Savings (Retrospective/Prospective)
 
 Proposed Pricing Changes
 
-Assumptions
+## Assumptions
 
 - In-force policyholder data used for projections spanning 2024-2046 is assumed to mirror the provided data for the period of 2001-2023.
 
