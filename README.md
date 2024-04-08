@@ -75,21 +75,17 @@ Proposed Pricing Changes
 
 - Mortality reduction for each group is determined by analysing which causes of mortality risk are affected by physical activity and the proportion of the age group affected by those causes.
 
-Risk and Risk Mitigation Considerations
+## <span style="color:blue">Risk and Risk Mitigation Considerations</span>
 
-# Risk Category Risk Severity, Likelihood Description/Mitigation
-
-# <span style="color:blue">Risk and Risk Mitigation Considerations</span>
-
-| Risk Category    | Risk Severity, Likelihood | Description/Mitigation |
-|------------------|---------------------------|------------------------|
-| Financial Risk   | Inflation Risk (4,2)      | Inflationary pressures may affect program participation rates, expenses, incentives, and premiums. This may lead to a higher lapse rate and reduced profitability. **Mitigation:** Sensitivity analysis for higher inflation, expenses, lapse rates with contingency strategies prepared. |
-| Strategic Risk   | Gym Under-utilisation Risk (2,2) | Policyholders sign up for discounted gym facilities without using them, resulting in minimal impact on mortality rates or savings. **Mitigation:** Monitor attendance rates and exercise frequency. Consider adjusting discounts based on participation (i.e., a tiered discount system). |
-| Underwriting Risk | Selection Risk (2,3)    | Policyholders who already engage in a high level of physical activity join the program for the monetary benefits, and do not actually decrease their mortality risk. **Mitigation:** Define goals for participants based on their recent fitness levels to properly incentivize activity levels. |
-| Operational Risk | Moral Risk (2,3)         | The potential for policyholders to submit inaccurate or dishonest fitness data to receive monetary rewards. **Mitigation:** Implement user authentication methods when uploading activities to SuperLife to verify data submissions. |
-| Operational Risk | Injury Risk (3,2)        | Encouraging physical activity may lead policyholders to engage in unfamiliar exercises, increasing the risk of injury. **Mitigation:** Provide injury prevention information upon enrollment to policyholders. |
-| Strategic Risk   | Reputational Risk (4,1)  | Policyholders provide sensitive, personal data and may misunderstand how it is used by SuperLife, leading to mistrust and a damaged reputation for the company. **Mitigation:** Communicate clearly to policyholders the collection, storage, and use of their data, obtaining consent upon enrollment on SuperLife’s data processes. |
-| Event Risk       | Crises/Pandemic Risk (5,1) | A global event such as a financial crisis or pandemic occurs. **Mitigation:** Use experience from previous events (e.g., GFC, COVID-19) to develop contingency plans. This information should be provided to policyholders in the program’s PDS. |
+|#| Risk Category    | Risk | Severity, Likelihood | Description/Mitigation |
+|---|---------------------------|------------------------|------------------------|
+|1  | Financial Risk            | Inflation Risk         | (4,2)                  | Inflationary pressures may affect program participation rates, expenses, incentives, and premiums. This may lead to a higher lapse rate and reduced profitability. **Mitigation:** Sensitivity analysis for higher inflation, expenses, lapse rates with contingency strategies prepared. |
+|2  | Strategic Risk            | Gym Under-utilisation Risk | (2,2)               | Policyholders sign up for discounted gym facilities without using them, resulting in minimal impact on mortality rates or savings. **Mitigation:** Monitor attendance rates and exercise frequency. Consider adjusting discounts based on participation (i.e., a tiered discount system). |
+|3  | Under-writing Risk        | Selection Risk          | (2,3)                  | Policyholders who already engage in a high level of physical activity join the program for the monetary benefits, and do not actually decrease their mortality risk. **Mitigation:** Define goals for participants based on their recent fitness levels to properly incentivise activity levels. |
+|4  | Operational Risk          | Moral Risk              | (2,3)                  | The potential for policyholders to submit inaccurate or dishonest fitness data to receive monetary rewards. **Mitigation:** Implement user authentication methods when uploading activities to SuperLife to verify data submissions. |
+|5  | Operational Risk          | Injury Risk             | (3,2)                  | Encouraging physical activity may lead policyholders to engage in unfamiliar exercises, increasing the risk of injury. **Mitigation:** Provide injury prevention information upon enrolment to policyholders. |
+|6  | Strategic Risk            | Reputational Risk       | (4,1)                  | Policyholders provide sensitive, personal data and may misunderstand how it is used by SuperLife, leading to mistrust and a damaged reputation for the company. **Mitigation:** Communicate clearly to policyholders the collection, storage, and use of their data, obtaining consent upon enrolment on SuperLife’s data processes. |
+|7  | Event Risk                | Crises/ Pandemic Risk  | (5,1)                  | A global event such as a financial crisis or pandemic occurs. **Mitigation:** Use experience from previous events (e.g., GFC, COVID-19) to develop contingency plans. This information should be provided to policyholders in the program’s PDS. |
 
 ## Ethical Considerations
 
