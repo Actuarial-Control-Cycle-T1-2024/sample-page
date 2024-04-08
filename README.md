@@ -61,7 +61,25 @@ The mortality savings from the proposed program were assessed over a 20-year per
 | Whole Life             | 27.38bm           | 27.13b            | 0.25b             | 0.9%              | 117,566           |
 | Total                  | 31.60b            | 31.02b            | 0.58b             | 1.8%              | 429,161           |
 
+The program's performance was projected for both 5-year and 20-year periods to evaluate its financial performance. This was done to ensure that the benefits exceed the costs and that the program contributed more to SuperLife's economic value than without it.
+
+
+| 5-year Timeframe| Total Claim Costs (Č) Without Program| Total Claim Costs (Č) With Program |   Mortality Savings (Č)  | Expenses | Profit |
+|-----------------|------------------------|----------------------|------------------------|------|------|
+| 20-year Term    | 4.86m                  | 4.58m                | 0.28m                  | 6.59m| (6.31m) |
+| Whole Life      | 19.89m                 | 18.55m               | 1.34m                  | 6.71m| (5.37m) |
+| Total           | 24.75m                 | 23.13m               | 1.62m                  | 13.30m| (11.68m) |
+
+|         20-year Timeframe          |Total Claim Costs (Č) Without Program  | Total Claim Costs (Č) With Program         | Mortality Savings (Č) | Expenses | Profit |
+|-------------------|------------------------|-------------------------|------------------------|----------|--------|
+
+| 20-year Term      | 1,069.81m              | 994.92m                 | 74.89m                 | 24.28m   | 50.61m |
+| Whole Life        | 664.86m                | 614.33m                 | 50.54m                 | 25.20m   | 25.34m |
+| Total             | 1,734.68m              | 1,609.25m               | 125.43m                | 49.48m   | 75.95m |
+
 ### Proposed Pricing Changes
+
+To increase SuperLife’s long-term investment income, policyholders, specifically younger ones, should be incentivised to switch from the 20-year term to whole life insurance. A discount to whole life premiums is suggested to encourage this transition as well as improve SuperLife’s competitiveness in Lumaria’s life insurance market.
 
 ## Assumptions
 
