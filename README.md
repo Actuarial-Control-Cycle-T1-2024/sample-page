@@ -35,19 +35,19 @@ _"Tell me and I forget. Teach me and I remember. Involve me and I learn" - Benja
 
 ## Program Design
 
-> ### Incentives:
-> 
-> - Fitness Tracking Incentives: Policyholders are incentivised with monetary rewards for meeting predetermined physical activity levels.
->
->- Discounted Gym Memberships: Policyholders will have access to gym facilities at discounted rates to encourage increased physical activity levels.
+### Incentives:
+ 
+- Fitness Tracking Incentives: Policyholders are incentivised with monetary rewards for meeting predetermined physical activity levels.
+
+- Discounted Gym Memberships: Policyholders will have access to gym facilities at discounted rates to encourage increased physical activity levels.
 
 The selection of incentives was guided by the main causes of death among existing SuperLife policyholders as well as the complimentary nature of both interventions.
 
-> ### Evaluation timeframes:
->
->  - Short-term evaluation has been selected at the 5-year mark, as it allows mortality trends to become evident, and a better understanding of life insurance products. Additionally, more frequent monitoring is recommended to allow for immediate program adjustments.
->
->  - Long-term valuation has been selected at the 20-year mark, primarily due to the long-term nature of life insurance products. This time frame will also allow for the assessment of product performance in various economic cycles or major events.
+### Evaluation timeframes:
+
+- Short-term evaluation has been selected at the 5-year mark, as it allows mortality trends to become evident, and a better understanding of life insurance products. Additionally, more frequent monitoring is recommended to allow for immediate program adjustments.
+
+- Long-term valuation has been selected at the 20-year mark, primarily due to the long-term nature of life insurance products. This time frame will also allow for the assessment of product performance in various economic cycles or major events.
 
 ## Pricing/Costs
 
@@ -56,8 +56,8 @@ The selection of incentives was guided by the main causes of death among existin
 The mortality savings from the proposed program were assessed over a 20-year period. This involved comparing the total cost of claims with and without the program over a 20-year timeframe.)
 |                        |         Total Claim Costs (Č)         |          Mortality Savings            |                   |
 |------------------------|---------------------------------------|---------------------------------------|-------------------|
-|------------------------| Without Program   | With Program      |     Č             |   %               |Number of Policies |
-|------------------------|-------------------|-------------------|---------------------------------------|-------------------|
+|                        | Without Program   | With Program      |     Č             |   %               |Number of Policies |
+|------------------------|-------------------|-------------------|-------------------|-------------------|-------------------|
 | 20-year Term           | 4.21b             | 3.88b             | 0.33b             | 7.7%              | 311,595           |
 | Whole Life             | 27.38bm           | 27.13b            | 0.25b             | 0.9%              | 117,566           |
 | Total                  | 31.60b            | 31.02b            | 0.58b             | 1.8%              | 429,161           |
