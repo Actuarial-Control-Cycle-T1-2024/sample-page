@@ -4,7 +4,7 @@ _"Tell me and I forget. Teach me and I remember. Involve me and I learn" - Benja
 
 ---
 
-## <font color=#c5f015>Group 3</font>
+## <font color=#c5f015>Group 3 - ActuarialLife Innovations</font>
 
 >Group Members: Joshua Ashokan, Yao Li, Zhiyue Pan, Boyuan Bai, Yawei Wang
 
