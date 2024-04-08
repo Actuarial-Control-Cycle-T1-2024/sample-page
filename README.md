@@ -4,7 +4,7 @@ _"Tell me and I forget. Teach me and I remember. Involve me and I learn" - Benja
 
 ---
 
-## <font color=#c5f015>Group 3 - ActuarialLife Innovations</font>
+## Group 3 - ActuarialLife Innovations
 
 >Group Members: Joshua Ashokan, Yao Li, Zhiyue Pan, Boyuan Bai, Yawei Wang
 
@@ -12,7 +12,7 @@ _"Tell me and I forget. Teach me and I remember. Involve me and I learn" - Benja
 
 
 
-## <span style="color:#c5f015">Website Guide</span>
+## Website Guide
 ---
 
 - **Report**: The `ACTL5100 Group 3 Case Report.pdf` file contains the main concept proposed by our group, along with all associated risks and analyses.
@@ -97,7 +97,7 @@ To increase SuperLife’s long-term investment income, policyholders, specifical
 
 - Mortality reduction for each group is determined by analysing which causes of mortality risk are affected by physical activity and the proportion of the age group affected by those causes.
 
-## <span style="color:blue">Risk and Risk Mitigation Considerations</span>
+## Risk and Risk Mitigation Considerations
 
 | # | Risk Category    | Risk | Severity, Likelihood | Description/Mitigation |
 |---|------------------|------|----------------------|------------------------|
