@@ -35,7 +35,7 @@ _"Tell me and I forget. Teach me and I remember. Involve me and I learn" - Benja
 
 ## Program Design
 
-> Incentives:
+> ### Incentives:
 > 
 > - Fitness Tracking Incentives: Policyholders are incentivised with monetary rewards for meeting predetermined physical activity levels.
 >
@@ -43,7 +43,7 @@ _"Tell me and I forget. Teach me and I remember. Involve me and I learn" - Benja
 
 The selection of incentives was guided by the main causes of death among existing SuperLife policyholders as well as the complimentary nature of both interventions.
 
-> Evaluation timeframes:
+> ### Evaluation timeframes:
 >
 >  - Short-term evaluation has been selected at the 5-year mark, as it allows mortality trends to become evident, and a better understanding of life insurance products. Additionally, more frequent monitoring is recommended to allow for immediate program adjustments.
 >
@@ -51,11 +51,18 @@ The selection of incentives was guided by the main causes of death among existin
 
 ## Pricing/Costs
 
-Methodology
+### Mortality Savings
 
-Mortality Savings (Retrospective/Prospective)
+The mortality savings from the proposed program were assessed over a 20-year period. This involved comparing the total cost of claims with and without the program over a 20-year timeframe.)
+|                        |         Total Claim Costs (Č)         |          Mortality Savings            |                   |
+|------------------------|---------------------------------------|---------------------------------------|-------------------|
+|------------------------| Without Program   | With Program      |     Č             |   %               |Number of Policies |
+|------------------------|-------------------|-------------------|---------------------------------------|-------------------|
+| 20-year Term           | 4.21b             | 3.88b             | 0.33b             | 7.7%              | 311,595           |
+| Whole Life             | 27.38bm           | 27.13b            | 0.25b             | 0.9%              | 117,566           |
+| Total                  | 31.60b            | 31.02b            | 0.58b             | 1.8%              | 429,161           |
 
-Proposed Pricing Changes
+### Proposed Pricing Changes
 
 ## Assumptions
 
@@ -87,41 +94,15 @@ Proposed Pricing Changes
 | 6 | Strategic Risk | Reputational Risk | (4,1) | Policyholders provide sensitive, personal data and may misunderstand how it is used by SuperLife, leading to mistrust and a damaged reputation for the company. **Mitigation:** Communicate clearly to policyholders the collection, storage, and use of their data, obtaining consent upon enrolment on SuperLife’s data processes. |
 | 7 | Event Risk | Crises/ Pandemic Risk | (5,1) | A global event such as a financial crisis or pandemic occurs. **Mitigation:** Use experience from previous events (e.g., GFC, COVID-19) to develop contingency plans. This information should be provided to policyholders in the program’s PDS. |
 
-Ethical Consideration Mitigation
+## Ethical 
+| Consideration | Mitigation |
+|---------------|------------|
+| The program emphasises physical activity which may pose challenges for policyholders with disabilities, which may result in the program being perceived as unfair and exclusive. | Collect information about policyholder abilities upon enrolment and tailor activity goals accordingly to accommodate those of all ability levels. |
+| Policyholders may feel excluded if they lack access to or are unfamiliar with fitness tracking devices, potentially leading to lower participation rates. | Offer alternative methods for fitness tracking, such as manual logging with the supervision of a qualified instructor. |
+| Variables such as age, gender, or race used to calculate program metrics may indirectly lead to discrimination or bias, possibly resulting in dissatisfied policyholders and reputation damage. | Conduct research on ethical variable usage in accordance with Lumarian regulations. Remove variables and their proxies to prevent inadvertent discrimination. |
+| Certain demographics may feel excluded if the marketing campaigns are not tailored to reach them, which may lead to lower participation rates. | Conduct market research on advertising styles and channels to ensure that campaigns are targeted equally at all policyholder demographics. |
 
-The program emphasises physical activity
-
-which may pose challenges for policyholders
-
-with disabilities, which may result in the
-
-program being perceived as unfair and
-
-exclusive. Collect information about policyholder abilities upon enrolment and tailor activity goals accordingly to accommodate those of all ability levels.
-
-Policyholders may feel excluded if they lack
-
-access to or are unfamiliar with fitness
-
-tracking devices, potentially leading to lower
-
-participation rates. Offer alternative methods for fitness tracking, such as manual logging with the supervision of a qualified instructor.
-
-Variables such as age, gender, or race used to
-
-calculate program metrics may indirectly lead
-
-to discrimination or bias, possibly resulting in Conduct research on ethical variable usage in accordance with Lumarian regulations. Remove variables and their proxies to prevent inadvertent discrimination.
-
-dissatisfied policyholders and reputation damage.
-
-Certain demographics may feel excluded if
-
-the marketing campaigns are not tailored to
-
-reach them, which may lead to lower
-
-participation rates. Conduct market research on advertising styles and channels to ensure that campaigns are targeted equally at all policyholder demographics.
+## Sensitivity Analysis
 
 Various scenarios were tested to ensure robustness of the proposed program against a range of assumptions (Note: The following % changes are multiplicative not additive):
 
@@ -135,7 +116,7 @@ Various scenarios were tested to ensure robustness of the proposed program again
 
 In the above scenarios, the program was financially viable and showed strong financial performance.
 
-Data and Data Limitations
+## Data and Data Limitations
 
 Data from SuperLife’s task force was used during program design, assumption setting, modelling, program evaluation. No external sources of data were used.
 
@@ -151,11 +132,9 @@ The following data limitations were present:
 
 - Data Availability: SuperLife’s reserve rate, capital, and commission expenses were not available.
 
-Conclusion
+## Conclusion
 
-The proposed health incentive program offers SuperLife the chance to improve their insurance offerings, promote healthier lifestyles, and reduce policyholder mortality. To ensure success in the implementation of this program, SuperLife must monitor performance metrics, employ risk mitigation techniques, and address any potential ethical considerations. SuperLife should also consider offering a discount to policyholders signing up to whole life
-
-insurance, as it increases economic value, and provides more complete coverage for policyholders.
+The proposed health incentive program offers SuperLife the chance to improve their insurance offerings, promote healthier lifestyles, and reduce policyholder mortality. To ensure success in the implementation of this program, SuperLife must monitor performance metrics, employ risk mitigation techniques, and address any potential ethical considerations. SuperLife should also consider offering a discount to policyholders signing up to whole life insurance, as it increases economic value, and provides more complete coverage for policyholders.
 
 Please send us email if there is any confusion in understanding the report content or running the codes.
 ![](Actuarial.gif)
