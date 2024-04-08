@@ -54,9 +54,8 @@ The selection of incentives was guided by the main causes of death among existin
 ### Mortality Savings
 
 The mortality savings from the proposed program were assessed over a 20-year period. This involved comparing the total cost of claims with and without the program over a 20-year timeframe.)
-|                        |         Total Claim Costs (Č)         |          Mortality Savings            |                   |
-|------------------------|---------------------------------------|---------------------------------------|-------------------|
-|                        | Without Program   | With Program      |     Č             |   %               |Number of Policies |
+
+|                        | Total Claim Costs (Č) Without Program   |  Total Claim Costs (Č) With Program      |     Mortality Savings (Č)             |   Mortality Savings (%)  |Number of Policies |
 |------------------------|-------------------|-------------------|-------------------|-------------------|-------------------|
 | 20-year Term           | 4.21b             | 3.88b             | 0.33b             | 7.7%              | 311,595           |
 | Whole Life             | 27.38bm           | 27.13b            | 0.25b             | 0.9%              | 117,566           |
