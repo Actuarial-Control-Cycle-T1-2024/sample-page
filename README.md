@@ -72,7 +72,6 @@ The program's performance was projected for both 5-year and 20-year periods to e
 
 |         20-year Timeframe          |Total Claim Costs (Č) Without Program  | Total Claim Costs (Č) With Program         | Mortality Savings (Č) | Expenses | Profit |
 |-------------------|------------------------|-------------------------|------------------------|----------|--------|
-
 | 20-year Term      | 1,069.81m              | 994.92m                 | 74.89m                 | 24.28m   | 50.61m |
 | Whole Life        | 664.86m                | 614.33m                 | 50.54m                 | 25.20m   | 25.34m |
 | Total             | 1,734.68m              | 1,609.25m               | 125.43m                | 49.48m   | 75.95m |
